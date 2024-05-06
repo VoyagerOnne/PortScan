@@ -4,7 +4,7 @@ import sys  # для получения аргументов
 from datetime import datetime
 
 
-# new commit
+# new commit 2
 OPEN_PORTS = []
 def scaner(IP):
     start = datetime.now()
